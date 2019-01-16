@@ -32,14 +32,14 @@ int main() {
 
     		ll x = min(min(i, j), min(n-1-i, n-1-j));
 
-    		printf("i:%lld j:%lld x:%lld\n", i, j, x);
+    		//printf("i:%lld j:%lld x:%lld\n", i, j, x);
 
     		// j => n - j - 1
     		if (i - j <= 0) {
-    			matrix[i][j] = (n-2*x)*(n-2*x)-(i-x)-(j-x);
+    			matrix[n-i-1][n-j-1] = (n-2*x)*(n-2*x)-(i-x)-(j-x);
     		}
     		else {
-    			matrix[i][j] = (n-2*x-2)*(n-2*x-2)+(i-x)+(j-x);
+    			matrix[n-i-1][n-j-1] = (n-2*x-2)*(n-2*x-2)+(i-x)+(j-x);
     		}
     	}
     }
