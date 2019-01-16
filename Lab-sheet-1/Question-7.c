@@ -23,7 +23,7 @@ char* alternate(char* text) {
     	if (text[i] != ' ') {
     		if (c%2 == 0) {
 		    	int x = text[i] - 'a';
-		    	x = (x+3)%25;
+		    	x = (x+3)%26;
 		    	text[i] = (char)(x+'a');
 	    }
 	    	c++;
@@ -41,7 +41,9 @@ char* decode_alternate(char* text) {
     		if (c%2 == 0) {
 		    	int x = text[i] - 'a';
 		    	x = (x-3)%25;
-		    	text[i] = (char)((char)x+'a');
+		    	if (x < 0)
+		    		x = 26 + x;
+		    	text[i] = (char)(x+'a');
 	    }
 	    	c++;
     	}
@@ -104,6 +106,6 @@ int main() {
     printf("%s", text);
     decode(text);
     printf("%s", text);
-    
+
 	return 0;
 }
