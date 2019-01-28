@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prime",
+				"prime_array"
+			],
+			[
+				"saddle",
+				"saddle_value"
+			],
+			[
+				"sadd",
+				"saddle_x"
+			],
+			[
+				"root_",
+				"root_arr"
+			],
+			[
+				"crea",
+				"createUserTable"
+			],
+			[
+				"del",
+				"deleteTable"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"ujjwal",
+				"ujjwalrox2"
+			],
+			[
+				"userE",
+				"userEmail"
+			],
+			[
+				"input",
+				"input_password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"exe",
+				"executeUpdate"
+			],
+			[
+				"Connec",
+				"Connection"
+			],
+			[
+				"fina",
+				"finally"
+			],
+			[
+				"conn",
+				"connectDatabase"
+			],
+			[
+				"time",
+				"timezone\tmodule"
+			],
+			[
+				"datet",
+				"datetime\tclass"
+			],
+			[
+				"map",
+				"map_algo\tfunction"
+			],
+			[
+				"pani",
+				"panic_locations\tstatement"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"exce",
+				"Exception\tclass"
+			],
+			[
+				"pa",
+				"api_panic_location\tfunction"
+			],
+			[
+				"Re",
+				"request"
+			],
+			[
+				"http",
+				"HttpResponse\tclass"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"loca",
+				"location\tstatement"
+			],
+			[
+				"locati",
+				"location"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"si",
+				"SignUpForm\tclass"
+			],
+			[
+				"lOCA",
+				"Location\tclass"
+			],
+			[
+				"phase",
+				"phase1\tfunction"
+			],
+			[
+				"pha",
+				"phase2_round1\tfunction"
+			],
+			[
+				"team",
+				"team_name"
+			],
+			[
+				"tem",
+				"team_name"
+			],
+			[
+				"con",
+				"contest"
+			],
+			[
+				"tea",
+				"team_name\tparam"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"max_digits\tparam"
+			],
+			[
+				"dec",
+				"DecimalField\tclass"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"clean",
+				"cleaned_data\tstatement"
+			],
+			[
+				"HttpRe",
+				"HttpResponse\tclass"
+			],
+			[
+				"asy",
+				"asyncio"
+			],
+			[
+				"send",
+				"send_mail\tfunction"
+			],
+			[
+				"sen",
+				"send_mail\tfunction"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"mil",
+				"milSec"
+			],
+			[
+				"rem",
+				"rem_time"
+			],
+			[
+				"unor",
+				"I-unordered_set\tinc"
+			],
+			[
+				"msg",
+				"msg_text"
+			],
+			[
+				"cre",
+				"create_message"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Lab-sheet-2/Question-1.c",
+			"settings":
+			{
+				"buffer_size": 2670,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab-sheet-2/output.txt",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab-sheet-2/input.txt",
+			"settings":
+			{
+				"buffer_size": 42,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-2"
+	],
+	"file_history":
+	[
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-2/output.txt",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/input.txt",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/output.txt",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-7.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-6.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-4.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-3.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-2-iterative.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-2.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/Lab-sheet-1/Question-1.c",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/README.md",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/code.cpp",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/output.txt",
+		"/home/ujjwalrox/ujjwalrox/github/DSA-Assignment/input.txt",
+		"/home/ujjwalrox/ujjwalrox/github/js-tutorial/server.js",
+		"/home/ujjwalrox/ujjwalrox/dc/Machine Learning/Stanford-ML/pdf-merge/pdf-merge.py",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/output.txt",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/input.txt",
+		"/home/ujjwalrox/ujjwalrox/test.java",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/test.c",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/question-5.c",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/question-1.c",
+		"/home/ujjwalrox/ujjwalrox/github/OOP-project/Database/DatabaseConnection.java",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/question-3.c",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/question-6.c",
+		"/home/ujjwalrox/ujjwalrox/cc/disco-assignment-2/question-2.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q1.c",
+		"/home/ujjwalrox/ujjwalrox/cc/input.txt",
+		"/home/ujjwalrox/ujjwalrox/cc/output.txt",
+		"/home/ujjwalrox/ujjwalrox/github/java-OOP-project/BuildDatabase.sh",
+		"/home/ujjwalrox/ujjwalrox/github/java-OOP-project/SQLiteJDBC.java",
+		"/home/ujjwalrox/ujjwalrox/github/java-OOP-project/DatabaseConnection.java",
+		"/home/ujjwalrox/ujjwalrox/github/java-OOP-project/database.java",
+		"/home/ujjwalrox/ujjwalrox/codefundo-final/panic-situation-analyzer/Documentation.md",
+		"/home/ujjwalrox/ujjwalrox/codefundo-final/panic-situation-analyzer/README.md",
+		"/home/ujjwalrox/ujjwalrox/github/python-zulip-api/tools/provision",
+		"/home/ujjwalrox/ujjwalrox/blockchain/blockchain.py",
+		"/home/ujjwalrox/ujjwalrox/cc/code.cpp",
+		"/home/ujjwalrox/ujjwalrox/blockchain.py",
+		"/home/ujjwalrox/ujjwalrox/documentation.html",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-personal/examples/crux_main.py",
+		"/home/ujjwalrox/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/ujjwalrox/ujjwalrox/github/codefundo/codefundo/codefundo/settings.py",
+		"/home/ujjwalrox/ujjwalrox/github/codefundo/codefundo/panic/urls.py",
+		"/home/ujjwalrox/ujjwalrox/github/codefundo/codefundo/panic/models.py",
+		"/home/ujjwalrox/ujjwalrox/github/test/test.py",
+		"/home/ujjwalrox/ujjwalrox/github/atmos-pastforward/django-server/pastforward/portal/templates/leaderboard.html",
+		"/home/ujjwalrox/ujjwalrox/github/atmos-pastforward/django-server/pastforward/portal/templates/index.html",
+		"/home/ujjwalrox/ujjwalrox/github/atmos-pastforward/django-server/pastforward/portal/templates/registration.html",
+		"/home/ujjwalrox/ujjwalrox/github/panic-situation-analyzer/README.md",
+		"/home/ujjwalrox/ujjwalrox/cc/q5.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q7.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q8.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q10-daksh.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q10-modified.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q9.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q10.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q4.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q3.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q6.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q2-modified.c",
+		"/home/ujjwalrox/ujjwalrox/cc/q2.c",
+		"/home/ujjwalrox/ujjwalrox/cc/code2.cpp",
+		"/home/ujjwalrox/ujjwalrox/cc/test.cpp",
+		"/home/ujjwalrox/ujjwalrox/arduino/ard.py",
+		"/home/ujjwalrox/ujjwalrox/arduino/async.py",
+		"/home/ujjwalrox/ujjwalrox/cc/test.c",
+		"/home/ujjwalrox/ujjwalrox/cc/hello.c",
+		"/home/ujjwalrox/ujjwalrox/github/atmos-pastforward/README.md",
+		"/home/ujjwalrox/ujjwalrox/git-tutorial/hello.txt",
+		"/home/ujjwalrox/ujjwalrox/github/crux-judge/src/server/contest/models.py",
+		"/home/ujjwalrox/ujjwalrox/github/crux-judge/src/server/contest/templates/header.html",
+		"/home/ujjwalrox/ujjwalrox/github/crux-judge/src/server/contest/views.py",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-wrapper/examples/main.py",
+		"/usr/share/linuxdcpp/glade/sharebrowser.glade",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-wrapper/email_sender.py",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-wrapper/.gitignore",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-wrapper/main.py",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-api-wrapper/README.md",
+		"/home/ujjwalrox/ujjwalrox/cc/luckynumber.cpp",
+		"/home/ujjwalrox/ujjwalrox/cc/code.py",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-sender/smtp-gmail.py",
+		"/home/ujjwalrox/ujjwalrox/github/gmail-sender/sel-gmail.py",
+		"/home/ujjwalrox/ujjwalrox/cc/abc.java",
+		"/home/ujjwalrox/ujjwalrox/mount/README.md"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"’",
+			"‘"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ujjwalrox/ujjwalrox/github/DSA-Assignment"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Lab-sheet-2/Question-1.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1280,
+								1280
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 195.0,
+						"translation.y": 1311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Lab-sheet-2/output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Lab-sheet-2/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.555822364966,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.456129032258,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 129.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
