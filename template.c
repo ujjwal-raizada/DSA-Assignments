@@ -1,5 +1,8 @@
 #include<stdio.h>
+#include<string.h>
+
 #define ll long long
+
 int main() {
 
     //Using text files for input output
