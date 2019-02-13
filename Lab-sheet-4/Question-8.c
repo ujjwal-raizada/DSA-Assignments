@@ -15,25 +15,35 @@ int main() {
     scanf("%d", &n);
 
     int a[n];
-    for (int i = 0; i < n; i++)
+
+    scanf("%d", &a[0]);
+    int temp = a[0];
+
+    int peak;
+
+    for (int i = 1; i < n; i++) {
     	scanf("%d", &a[i]);
+
+        if (a[i] < a[i - 1])
+            peak = i - 1;
+    }
 
     int k;
     scanf("%d", &k);
 
-    int l = 0;
-    int r = n - 1;
+    int l = peak + 1;
+    int r = n + peak;
 
     while (l <= r) {
 
     	int mid = l + (r - l) / 2;
 
-    	if (a[mid] == k) {
-    		printf("%d", mid + 1);
+    	if (a[mid % n] == k) {
+    		printf("%d", (mid % n) + 1);
     		break;
     	}
     	else {
-    		if (k < a[mid])
+    		if (k < a[mid % n])
     			r = mid - 1;
     		else
     			l = mid + 1;
